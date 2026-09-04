@@ -1,8 +1,8 @@
 # About me:
 Hello World! I'm Diego Diaz 👋
 
-🎯 **Data Scientist | Sales Operations Director | Engineer**  
-With over 10 years of experience in the **Industrial** and **Automotive** sectors, I combine my leadership in **Sales Operations** with a passion for **Data Science** to drive performance through data insights.
+🎯 **Senior Data & Analytics Leader | Turning Enterprise Data into Revenue and Decision Speed**  
+I lead the function that sits between the data a business collects and the decisions its executives actually make. That means owning the analytics stack — data engineering, BI, governance — and the team that runs it. It also means translating a CFO's question into a data model, and a data model's answer into something a CEO will act on. I've done this inside a global industrial manufacturer and a global SaaS platform, across industries from automotive components to enterprise software.
 
 Let’s collaborate on data-driven projects or open-source contributions!
 
@@ -10,7 +10,7 @@ Let’s collaborate on data-driven projects or open-source contributions!
 
 - **Data Science:** Python, R, SQL, Tableau, PowerBI, Alteryx
 - **Programming:** Python, R, SQL, C++
-- **Frameworks & Tools:** Oracle Sales Cloud, Salesforce CRM, IBM Cognos, DSX Forecasting, Teradata
+- **Frameworks & Tools:** Oracle Sales Cloud, Salesforce CRM, IBM Cognos, DSX Forecasting, Teradata, DataHub
 - **Data & Analytics:** Predictive Models, Data Governance, Big Data Analysis
 - **DevOps:** Git, CI/CD, Agile Methodology
 
